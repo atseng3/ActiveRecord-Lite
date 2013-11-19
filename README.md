@@ -1,1 +1,1 @@
-# ActiveRecord Lite
+# ActiveRecord-Lite
